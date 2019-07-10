@@ -1,0 +1,4 @@
+Module 1: Assignment
+Create your own quote application as taught in this module.
+Create a GitHub repository and push the code to GitHub.
+Deploy your application to Heroku.
