@@ -4,9 +4,6 @@
   "description": "building a random quote app",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "script": {
     "start": "node app.js"
   },
   "author": "Souvik Kundu",
